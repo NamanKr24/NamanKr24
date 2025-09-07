@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I’m Naman  
 
-<!--
-**NamanKr24/NamanKr24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Data Analyst | Aspiring Data Scientist  
+I work at the intersection of **analytics and machine learning**, turning raw data into clear business insights and deployable solutions.  
+From **SQL-driven analysis and interactive dashboards** to **forecasting frameworks and retrieval systems**, I enjoy building end-to-end pipelines that solve real-world problems.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills Snapshot  
+
+- **Core Tools:** SQL • Python (Pandas, Scikit-learn, Flask) • Power BI  
+- **Special Focus:** Forecasting • Recommendation Systems • RAG/LLMs • Dashboarding  
+- **Other Familiarity:** Optuna • Gradio • Streamlit • Oracle SQL • Excel (Power Pivot)  
+
+---
+
+## 📄 Resume & Portfolio  
+
+- 📑 [Download My Resume](your-resume-link)  
+- 🌐 Portfolio Website (coming soon via GitHub Pages)  
+
+---
+
+## 📬 Let’s Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)  
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+
+---
+
+## 📊 GitHub at a Glance  
+
+![Naman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+
+---
+
+⭐️ *Thanks for stopping by — feel free to check out my pinned projects below!*
