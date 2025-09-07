@@ -18,7 +18,7 @@ From **SQL-driven analysis and interactive dashboards** to **forecasting framewo
 
 - 📄 Resumes  
   - [Data Analyst Resume (for analytics-focused roles)](https://drive.google.com/file/d/1AdpSoBhHf4A8X5a3tqZ7eE4T54mP-14K/view?usp=drivesdk)  
-  - [Data Scientist Resume (for advanced ML roles](https://drive.google.com/file/d/1AphjOTTGGpkxaS32Fv-Pb36_ahfNILZv/view?usp=drivesdk)  
+  - [Data Scientist Resume (for advanced ML roles)](https://drive.google.com/file/d/1AphjOTTGGpkxaS32Fv-Pb36_ahfNILZv/view?usp=drivesdk)  
 - 🌐 Portfolio Website (coming soon via GitHub Pages)  
 
 ---
