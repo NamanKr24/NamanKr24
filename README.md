@@ -34,6 +34,7 @@ From **SQL-driven analysis and interactive dashboards** to **forecasting framewo
 ## 📊 GitHub at a Glance  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanKr24&layout=compact&theme=tokyonight)
+
 ![Naman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=NamanKr24&show_icons=true&theme=tokyonight)   
 
 ---
