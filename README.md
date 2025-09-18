@@ -17,9 +17,9 @@ From **SQL-driven analysis and interactive dashboards** to **forecasting framewo
 ## 📄 Resume & Portfolio  
 
 - 📄 Resumes  
-  - [Data Analyst Resume (for analytics-focused roles)](https://drive.google.com/file/d/1AdpSoBhHf4A8X5a3tqZ7eE4T54mP-14K/view?usp=drivesdk)  
-  - [Data Scientist Resume (for advanced ML roles)](https://drive.google.com/file/d/1AphjOTTGGpkxaS32Fv-Pb36_ahfNILZv/view?usp=drivesdk)  
-- 🌐 Portfolio Website (coming soon via GitHub Pages)  
+  - [Data Analyst Resume (for analytics-focused roles)](https://drive.google.com/file/d/1w1FSgwRtNYqp7ywyeq20ku17o6vSniHc/view?usp=drivesdk)  
+  - [Data Scientist Resume (for advanced ML roles)](https://drive.google.com/file/d/1VHPkWJ3c-4BH1hm6T1OwG7K43uQc2QjW/view?usp=drivesdk)  
+- 🌐 [Portfolio Website](https://naman-kumar-portfolio-website.vercel.app/)
 
 ---
 
