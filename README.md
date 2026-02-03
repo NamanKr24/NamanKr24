@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Naman  
+# Hi, I’m Naman  
 
 💡 Data Analyst | Aspiring Data Scientist  
 I work at the intersection of **analytics and machine learning**, turning raw data into clear business insights and deployable solutions.  
